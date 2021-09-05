@@ -2,4 +2,4 @@
 
 ## Build with CSS and HTML  
 
-<img src='animação.gif'>
+<img src='Animação.gif'>
